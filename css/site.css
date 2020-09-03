@@ -1,0 +1,165 @@
+body {
+  background-color: #1f1f1f;
+  margin: 0;
+  font-family: arial;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-size: 30pt;
+}
+
+h3 {
+  color: white;
+  font-size: 25pt;
+}
+
+.main_container {
+  background-image: url("../images/jordan-hare.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 980px;
+  padding-bottom: 200px;
+  width: 100%;
+}
+
+.main_wrapper {
+  font-family: arial;
+}
+
+.title_container {
+  text-align: center;
+  color: white;
+}
+
+.main_title {
+  font-size: 90pt;
+  letter-spacing: 5px;
+  margin-bottom: 45px;
+}
+
+.description {
+  font-size: 18pt;
+}
+
+.header_link {
+  text-align: right;
+  padding: 15px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  width: 82%;
+}
+
+.page_link {
+  font-size: 15pt;
+  color: orange;
+  margin: 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: lighter;
+}
+
+.header_image {
+  background-color: orange;
+  padding: 10px;
+}
+
+.sign-up {
+  width: 110px;
+  height: 40px;
+  background-color: orange;
+  color: white;
+  border: none;
+  font-size: 12pt;
+  box-shadow: 5px 5px 15px grey;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.pillar {
+  color: white;
+  margin: 100px;
+  margin-top: 10px;
+  width: 300px;
+  line-height: 20pt;
+}
+
+.row img {
+  margin: 10px;
+  width: 240px;
+  height: 240px;
+}
+
+.footer {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.footer img {
+  width: 80px;
+  margin: 10px;
+}
+
+.project {
+  display: inline-flex;
+  margin: 150px;
+  margin-bottom: 0;
+  text-align: left;
+  width: 60%;
+  border: solid orange;
+  padding: 30px;
+}
+
+.project-description {
+  margin-top: 10px;
+  color: white;
+  font-size: 15pt;
+  line-height: 1.5em;
+}
+
+.project-title {
+  color: orange;
+  font-size: 22pt;
+  text-transform: uppercase;
+}
+
+.project-image {
+  margin-left: 50px;
+}
+
+.project-image img {
+  margin-bottom: 10px;
+}
+
+.officer {
+  display: inline-flex;
+  margin-bottom: 150px;
+  text-align: left;
+  width: 60%;
+  padding: 30px;
+  padding-top: 60px;
+  border-top: 2px solid white;
+}
+
+.officer-description {
+  margin-top: 10px;
+  color: white;
+  font-size: 15pt;
+  line-height: 2em;
+}
+
+.officer-name {
+  color: orange;
+  font-size: 22pt;
+  text-transform: uppercase;
+}
+
+.officer-image {
+  margin-left: 50px;
+}
+
+.officer-image img {
+  margin-bottom: 10px;
+}
